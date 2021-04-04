@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhiram.s
-- 👀 I’m interested in cybersecurity
-- 📫 How to reach me at abhiramsarja@gmail.com
+- 👀 I’m a cybersecurity enthusiast
+- 📫 Reach me at abhiramsarja@gmail.com
 
 <!---
 a-sarja/a-sarja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
