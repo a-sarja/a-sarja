@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhiram.s
+- 👋 Hi, I’m Abhiram Sarja
 - 👀 I’m a cybersecurity enthusiast
 - 📫 Reach me at abhiramsarja@gmail.com
 
