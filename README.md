@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Abhiram Sarja
-- 👀 I’m a cybersecurity enthusiast
+- 👀 I’m passionate about security
+- 💻 I have 5+ years of work experience in Software Development. I'm confident of fitting well into both security and software engineering domains.
+- 💡 My interests include secure programming, network security, cryptography, automating complex security workflows, building scalable secure systems
 - 📫 Reach me at abhiramsarja@gmail.com
 
 <!---
